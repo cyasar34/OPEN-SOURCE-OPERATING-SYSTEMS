@@ -2,7 +2,7 @@
 <p align="justify">Linux sistemlerde çok güçlü bir yardım alma sistemi vardır. Komut satırından kullanacağımız bir komutun kullanım argümanları ve parametreleriyle ilgili ya da bir uygulamanın nasıl kullanılacağıyla ilgili geniş dokümantasyon yardımı bulunmaktadır.
 </p>
 
-#### En yaygın bilgi toplama komutları
+#### En yaygın kullanılan bilgi toplama komutları
 | KOMUT | AÇIKLAMA | 
 | :---         |     :---:      |       
 | Help | Kabuk komutlarının listesini gösterir. |
